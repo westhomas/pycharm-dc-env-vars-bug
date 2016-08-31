@@ -1,0 +1,5 @@
+test:
+  build: .
+  command: bash
+  environment:
+    MY_TEST_VAR:
