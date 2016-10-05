@@ -3,3 +3,5 @@ test:
   command: bash
   environment:
     MY_TEST_VAR:
+  volumes:
+    - .:/data
